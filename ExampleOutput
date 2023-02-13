@@ -1,0 +1,61 @@
+Level 0:
+Name: /
+Width: 0
+Height: 0
+Cut: Vertical
+x-coordinate: 1
+
+Level 1:
+Name: A
+Width: 5
+Height: 8
+Cut: None
+x-coordinate: 0
+
+Name: B
+Width: 8
+Height: 14
+Cut: None
+x-coordinate: 2
+
+_/_
+| |
+A B
+Level 0:
+Name: /
+Width: 34
+Height: 28
+Cut: Vertical
+x-coordinate: 5
+
+Level 1:
+Name: /
+Width: 22
+Height: 28
+Cut: Vertical
+x-coordinate: 3
+
+Name: -
+Width: 12
+Height: 19
+Cut: Horizontal
+x-coordinate: 7
+
+Level 2:
+Name: -
+Width: 18
+Height: 28
+Cut: Horizontal
+x-coordinate: 1
+
+Height: 20
+Cut: None
+x-coordinate: 2
+
+   __/__
+   |   |
+ __/_ _-_
+ |  | | |
+_-_ C B D
+| |
+A E
